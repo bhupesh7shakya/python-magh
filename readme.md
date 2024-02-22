@@ -18,5 +18,14 @@ git remote add origin <REPO LINK>
 <!-- TO SYNC OR UPLOAD BRANCH TO GITHUB -->
 git push -u origin main
 
+<!-- to create new branch  -->
+git checkout -b <BRANCH NAME>
 
-register
+<!-- to change branch    -->
+git checkout <BRANCH NAME>
+
+<!-- to merge one branch from another branch -->
+git merge <BRANCH NAME>
+
+<!-- to get code of that specific branch  -->
+git pull
