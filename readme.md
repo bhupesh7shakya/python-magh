@@ -18,3 +18,5 @@ git remote add origin <REPO LINK>
 <!-- TO SYNC OR UPLOAD BRANCH TO GITHUB -->
 git push -u origin main
 
+
+register
