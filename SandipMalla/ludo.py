@@ -6,4 +6,5 @@ while True:
         print(f"The number is {r(1,6)}")
         print("Please roll the diiice again!!!")
         print("Please roll the diiice again!!!")
+        print("Please roll the diiice again!!!")
         
